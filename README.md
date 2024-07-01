@@ -22,16 +22,22 @@ registered with him
 
 The services that the program provides to the patient are 7 
 services that can be summarized as follows : 
-1)- The ability to register and schedule an appointment 
-with a doctor 
-2)- Patient can find his information if he registers once 
-3)- Schedule a new appointment with the doctor 
-4)- Select another consultation type and select another 
+1) - The ability to register and schedule an appointment 
+with a doctor
+ 
+2) - Patient can find his information if he registers once
+ 
+3) - Schedule a new appointment with the doctor
+ 
+4) - Select another consultation type and select another 
 doctor 
-5)- Read the medical record written by doctor 
-6)- Find out the medicines that the doctor 
+
+5) - Read the medical record written by doctor
+ 
+6) - Find out the medicines that the doctor 
 prescribed for him 
-7)- Find out the necessary tests that the doctor 
+
+7) - Find out the necessary tests that the doctor 
 requested from him 
 
 we have made 10 classes that describe our project in names  
